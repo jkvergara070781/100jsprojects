@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+:root {
+    --bg-body: #f0e7e7;
+    --bg-slider: #263BAA;
+    --font: #FFF4D6;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--bg-body);
+}
+
+.container {
+    width: clamp(15.625rem, 11.161rem + 22.32vw, 31.25rem);
+    height: clamp(6.25rem, 4.464rem + 8.93vw, 12.5rem);
+    background-color: var(--bg-slider);
+    border-radius: clamp(1.25rem, 0.893rem + 1.79vw, 2.5rem);
+    corner-shape: squircle;
+    box-shadow: 0 0.4rem 0.6rem rgba(0, 0, 0, 0.5);
+    padding: clamp(2rem, 1.429rem + 2.86vw, 4rem) clamp(1rem, 0.714rem + 1.43vw, 2rem);
+    margin: clamp(0.1rem, 0.043rem + 0.29vw, 0.3rem);
+    color: var(--font);
+    position: relative;
+}
+
+.container img {
+    width: clamp(3rem, 2.143rem + 4.29vw, 6rem);
+    height: clamp(3rem, 2.143rem + 4.29vw, 6rem);
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -150%);
+}
+
+.text {
+    font-size: clamp(0.6rem, 0.486rem + 0.57vw, 1rem);
+    margin-bottom: clamp(0.1rem, -0.443rem + 2.71vw, 2rem);
+}
+
+.username {
+    font-size: clamp(0.6rem, 0.486rem + 0.57vw, 1rem);
+    font-weight: bold;
+}
