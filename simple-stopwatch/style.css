@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --reset-color: #5d5b5b;
+    --reset-color-shadow: #c4c0c0;
+    --start-color: #1cc61c;
+    --start-color-shadow: #a1e5a1;
+    --stop-color: #e32020;
+    --stop-color-shadow: #d67474;
+    --button-color: #f1ebeb;
+    --button-bg-reset: #5d5b5b;
+    --button-bg-start: #1cc61c;
+    --button-bg-stop: #e32020;
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    overflow: hidden;
+}
+
+#timer {
+    font-size: 7rem;
+    font-weight: 700;
+    text-shadow: 3px 3px var(--reset-color-shadow);
+    color: var(--reset-color);
+    width: 600px;
+    text-align: center;
+    margin: 40px auto;
+}
+
+
+#buttons {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    color: var(--button-color);
+    border: none;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1.5rem 4rem;
+    margin: 1rem;
+    border-radius: 30px;
+    cursor: pointer;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.2s ease;
+}
+
+#start {
+    background-color: var(--button-bg-start);
+}
+
+#stop {
+    background-color: var(--button-bg-stop);
+}
+
+#reset {
+    background-color: var(--button-bg-reset);
+}
+
+button:hover {
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+}
+
+button[disabled] {
+    opacity: 0.5;
+    cursor: default;
+}
