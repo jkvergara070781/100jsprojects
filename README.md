@@ -10,4 +10,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Age Calculator](https://github.com/jkvergara070781/100jsprojects/tree/main/age-calculator) - https://www.100jsprojects.com/project/age-calculator
 - [Pomodoro Timer](https://github.com/jkvergara070781/100jsprojects/tree/main/pomodoro-timer) - https://www.100jsprojects.com/project/pomodoro-timer
 - [Simple Stopwatch](https://github.com/jkvergara070781/100jsprojects/tree/main/simple-stopwatch) - https://www.100jsprojects.com/project/stopwatch
-- [Video Trailer Popup]() - https://www.100jsprojects.com/project/video-trailer-popup
+- [Video Trailer Popup](https://github.com/jkvergara070781/100jsprojects/tree/main/video-trailer-popup) - https://www.100jsprojects.com/project/video-trailer-popup
+- [Tabs Section]() - https://www.100jsprojects.com/project/tabs
