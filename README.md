@@ -11,4 +11,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Pomodoro Timer](https://github.com/jkvergara070781/100jsprojects/tree/main/pomodoro-timer) - https://www.100jsprojects.com/project/pomodoro-timer
 - [Simple Stopwatch](https://github.com/jkvergara070781/100jsprojects/tree/main/simple-stopwatch) - https://www.100jsprojects.com/project/stopwatch
 - [Video Trailer Popup](https://github.com/jkvergara070781/100jsprojects/tree/main/video-trailer-popup) - https://www.100jsprojects.com/project/video-trailer-popup
-- [Tabs Section]() - https://www.100jsprojects.com/project/tabs
+- [Tabs Section](https://github.com/jkvergara070781/100jsprojects/tree/main/tabs-section) - https://www.100jsprojects.com/project/tabs
+- [Sticky Navbar]() - https://www.100jsprojects.com/project/sticky-navbar
