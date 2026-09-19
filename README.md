@@ -13,3 +13,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Video Trailer Popup](https://github.com/jkvergara070781/100jsprojects/tree/main/video-trailer-popup) - https://www.100jsprojects.com/project/video-trailer-popup
 - [Tabs Section](https://github.com/jkvergara070781/100jsprojects/tree/main/tabs-section) - https://www.100jsprojects.com/project/tabs
 - [Sticky Navbar](https://github.com/jkvergara070781/100jsprojects/tree/main/sticky-navbar) - https://www.100jsprojects.com/project/sticky-navbar
+- [Social Media Selector Menu](https://github.com/jkvergara070781/100jsprojects/tree/main/social-media-selector) - https://www.100jsprojects.com/project/social-media-selector-menu
+- [Sidebar Menu]() - https://www.100jsprojects.com/project/sidebar
