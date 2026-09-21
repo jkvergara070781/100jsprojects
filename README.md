@@ -15,3 +15,4 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Sticky Navbar](https://github.com/jkvergara070781/100jsprojects/tree/main/sticky-navbar) - https://www.100jsprojects.com/project/sticky-navbar
 - [Social Media Selector Menu](https://github.com/jkvergara070781/100jsprojects/tree/main/social-media-selector) - https://www.100jsprojects.com/project/social-media-selector-menu
 - [Sidebar Menu](https://github.com/jkvergara070781/100jsprojects/tree/main/sidebar-menu) - https://www.100jsprojects.com/project/sidebar
+- [Real-time Character Counter]() - https://www.100jsprojects.com/project/real-time-character-counter
