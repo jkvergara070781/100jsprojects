@@ -16,4 +16,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Social Media Selector Menu](https://github.com/jkvergara070781/100jsprojects/tree/main/social-media-selector) - https://www.100jsprojects.com/project/social-media-selector-menu
 - [Sidebar Menu](https://github.com/jkvergara070781/100jsprojects/tree/main/sidebar-menu) - https://www.100jsprojects.com/project/sidebar
 - [Real-time Character Counter](https://github.com/jkvergara070781/100jsprojects/tree/main/real-time-character-counter) - https://www.100jsprojects.com/project/real-time-character-counter
-- [Random Photos]() - https://www.100jsprojects.com/project/random-photos
+- [Random Photos](https://github.com/jkvergara070781/100jsprojects/tree/main/random-photos) - https://www.100jsprojects.com/project/random-photos
+- [Q&A Section]() - https://www.100jsprojects.com/project/q-and-a-section
