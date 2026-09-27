@@ -18,4 +18,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Real-time Character Counter](https://github.com/jkvergara070781/100jsprojects/tree/main/real-time-character-counter) - https://www.100jsprojects.com/project/real-time-character-counter
 - [Random Photos](https://github.com/jkvergara070781/100jsprojects/tree/main/random-photos) - https://www.100jsprojects.com/project/random-photos
 - [Q&A Section](https://github.com/jkvergara070781/100jsprojects/tree/main/q%26a-section) - https://www.100jsprojects.com/project/q-and-a-section
-- [Profile Statistics]() - https://www.100jsprojects.com/project/profile-statistics
+- [Profile Statistics](https://github.com/jkvergara070781/100jsprojects/tree/main/profile-statistics) - https://www.100jsprojects.com/project/profile-statistics
+- [Month Calendar]() - https://www.100jsprojects.com/project/month-calender
