@@ -4,7 +4,7 @@ const daysElement = document.querySelector(".days");
 
 const currentMonth = new Date().getMonth();
 const lastDay = new Date(new Date().getFullYear(), currentMonth + 1, 0).getDate();
-const firstDay = new Date(new Date().getFullYear(), currentMonth, 1).getDay() - 1;
+const firstDay = (new Date(year, currentMonth, 1).getDay() + 6) % 7;
 
 const months = [
     "January",
@@ -18,7 +18,7 @@ const months = [
     "September",
     "October",
     "November",
-    "Decemner",
+    "December",
 ];
 
 monthElement.innerText = months[currentMonth];

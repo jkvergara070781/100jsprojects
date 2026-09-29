@@ -20,3 +20,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Q&A Section](https://github.com/jkvergara070781/100jsprojects/tree/main/q%26a-section) - https://www.100jsprojects.com/project/q-and-a-section
 - [Profile Statistics](https://github.com/jkvergara070781/100jsprojects/tree/main/profile-statistics) - https://www.100jsprojects.com/project/profile-statistics
 - [Month Calendar](https://github.com/jkvergara070781/100jsprojects/tree/main/month-calendar) - https://www.100jsprojects.com/project/month-calender
+- [Mini Calendar](https://github.com/jkvergara070781/100jsprojects/tree/main/mini-calendar) - https://www.100jsprojects.com/project/mini-calendar
+- [Loan Calculator]() - https://www.100jsprojects.com/project/loan-calculator
