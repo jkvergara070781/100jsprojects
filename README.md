@@ -22,4 +22,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Month Calendar](https://github.com/jkvergara070781/100jsprojects/tree/main/month-calendar) - https://www.100jsprojects.com/project/month-calender
 - [Mini Calendar](https://github.com/jkvergara070781/100jsprojects/tree/main/mini-calendar) - https://www.100jsprojects.com/project/mini-calendar
 - [Loan Calculator](https://github.com/jkvergara070781/100jsprojects/tree/main/loan-calculator) - https://www.100jsprojects.com/project/loan-calculator
-- [Loading Bar]() - https://www.100jsprojects.com/project/loading-bar
+- [Loading Bar](https://github.com/jkvergara070781/100jsprojects/tree/main/loading-bar) - https://www.100jsprojects.com/project/loading-bar
+- [Loading Bar]() - https://www.100jsprojects.com/project/image-slider
