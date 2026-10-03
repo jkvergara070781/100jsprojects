@@ -24,4 +24,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Loan Calculator](https://github.com/jkvergara070781/100jsprojects/tree/main/loan-calculator) - https://www.100jsprojects.com/project/loan-calculator
 - [Loading Bar](https://github.com/jkvergara070781/100jsprojects/tree/main/loading-bar) - https://www.100jsprojects.com/project/loading-bar
 - [Sliding Image](https://github.com/jkvergara070781/100jsprojects/tree/main/image-slider) - https://www.100jsprojects.com/project/image-slider
-- [Bubble Trail Animation]() - https://www.100jsprojects.com/project/heart-trail-animation
+- [Bubble Trail Animation](https://github.com/jkvergara070781/100jsprojects/tree/main/bubble-trail-animation) - https://www.100jsprojects.com/project/heart-trail-animation
+- [Bubble Trail Animation]() - https://www.100jsprojects.com/project/emoji-rating
