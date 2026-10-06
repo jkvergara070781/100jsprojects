@@ -27,4 +27,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Bubble Trail Animation](https://github.com/jkvergara070781/100jsprojects/tree/main/bubble-trail-animation) - https://www.100jsprojects.com/project/heart-trail-animation
 - [Emoji Rating](https://github.com/jkvergara070781/100jsprojects/tree/main/emoji-rating) - https://www.100jsprojects.com/project/emoji-rating
 - [Double Landing Page](https://github.com/jkvergara070781/100jsprojects/tree/main/double-landing-page) - https://www.100jsprojects.com/project/double-landing-page
-- [Button Ripple Effect]() - https://www.100jsprojects.com/project/button-ripple-effect
+- [Button Ripple Effect](https://github.com/jkvergara070781/100jsprojects/tree/main/button-ripple-effect) - https://www.100jsprojects.com/project/button-ripple-effect
+- [BMI Calculator]() - https://www.100jsprojects.com/project/bmi-calculator
