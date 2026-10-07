@@ -28,4 +28,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Emoji Rating](https://github.com/jkvergara070781/100jsprojects/tree/main/emoji-rating) - https://www.100jsprojects.com/project/emoji-rating
 - [Double Landing Page](https://github.com/jkvergara070781/100jsprojects/tree/main/double-landing-page) - https://www.100jsprojects.com/project/double-landing-page
 - [Button Ripple Effect](https://github.com/jkvergara070781/100jsprojects/tree/main/button-ripple-effect) - https://www.100jsprojects.com/project/button-ripple-effect
-- [BMI Calculator]() - https://www.100jsprojects.com/project/bmi-calculator
+- [BMI Calculator](https://github.com/jkvergara070781/100jsprojects/tree/main/bmi-calculator) - https://www.100jsprojects.com/project/bmi-calculator
+- [Blurred Background Popup]() - https://www.100jsprojects.com/project/blurred-background-popup
