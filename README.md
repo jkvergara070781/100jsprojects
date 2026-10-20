@@ -30,4 +30,4 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Button Ripple Effect](https://github.com/jkvergara070781/100jsprojects/tree/main/button-ripple-effect) - https://www.100jsprojects.com/project/button-ripple-effect
 - [BMI Calculator](https://github.com/jkvergara070781/100jsprojects/tree/main/bmi-calculator) - https://www.100jsprojects.com/project/bmi-calculator
 - [Blurred Background Popup](https://github.com/jkvergara070781/100jsprojects/tree/main/blurred-background-popup) - https://www.100jsprojects.com/project/blurred-background-popup
-- [Background]() - https://www.100jsprojects.com/project/background-video
+- [Background Video](https://github.com/jkvergara070781/100jsprojects/tree/main/background-video) - https://www.100jsprojects.com/project/background-video
