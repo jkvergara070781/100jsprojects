@@ -31,4 +31,5 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [BMI Calculator](https://github.com/jkvergara070781/100jsprojects/tree/main/bmi-calculator) - https://www.100jsprojects.com/project/bmi-calculator
 - [Blurred Background Popup](https://github.com/jkvergara070781/100jsprojects/tree/main/blurred-background-popup) - https://www.100jsprojects.com/project/blurred-background-popup
 - [Background Video](https://github.com/jkvergara070781/100jsprojects/tree/main/background-video) - https://www.100jsprojects.com/project/background-video
-- [Auto Text Effect Animation]() - https://www.100jsprojects.com/project/auto-text-effect-animation
+- [Auto Text Effect Animation](https://github.com/jkvergara070781/100jsprojects/tree/main/auto-text-effect-animation) - https://www.100jsprojects.com/project/auto-text-effect-animation
+- [Animated Search Bar]() - https://www.100jsprojects.com/project/animated-search
