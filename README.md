@@ -35,3 +35,4 @@ This repository contains projects ideas from [100jsprojects](https://www.100jspr
 - [Animated Search Bar](https://github.com/jkvergara070781/100jsprojects/tree/main/animated-search-bar) - https://www.100jsprojects.com/project/animated-search
 - [Rotating Image Gallery](https://github.com/jkvergara070781/100jsprojects/tree/main/animated-search-bar) - https://www.100jsprojects.com/project/rotating-image-gallery
 - [Background Image Scroll Effect](https://github.com/jkvergara070781/100jsprojects/tree/main/background-image-scoll-effect) - https://www.100jsprojects.com/project/background-image-scroll-effect
+- [Basic Calculator]() - https://www.100jsprojects.com/project/basic-calculator
